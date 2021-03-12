@@ -1,5 +1,4 @@
-<h1 align="center">Calculator V1</h1>
+<h1 align="center">Calculator V1.0</h1>
 
-<p align="center">
+< align="center">
   <img src="./.github/Calculator.gif" />
-</p>
